@@ -1,0 +1,127 @@
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe.config
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.exe
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.pdb
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.pdb
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.About.resources
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Login.resources
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Luong.resources
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Main.resources
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.NhanVien.resources
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Properties.Resources.resources
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.QuanLyTaiKhoan.resources
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.csproj.GenerateResource.Cache
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.csprojResolveAssemblyReference.cache
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.HoaDon.resources
+C:\Users\Huy\Desktop\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.ThanhToan.resources
+C:\Users\Huy\OneDrive - Ho Chi Minh city University of Food Industry\Tí\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe.config
+C:\Users\Huy\OneDrive - Ho Chi Minh city University of Food Industry\Tí\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.exe
+C:\Users\Huy\OneDrive - Ho Chi Minh city University of Food Industry\Tí\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.pdb
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe.config
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.exe
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.pdb
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.csprojResolveAssemblyReference.cache
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.About.resources
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.HoaDon.resources
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Login.resources
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Luong.resources
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Main.resources
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.NhanVien.resources
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Properties.Resources.resources
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.QuanLyTaiKhoan.resources
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.ThanhToan.resources
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.csproj.GenerateResource.Cache
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe
+C:\Users\Young\Downloads\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.pdb
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe.config
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.exe
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.pdb
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.pdb
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.About.resources
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.HoaDon.resources
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Login.resources
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Luong.resources
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Main.resources
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.NhanVien.resources
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Properties.Resources.resources
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.QuanLyTaiKhoan.resources
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.ThanhToan.resources
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.csproj.GenerateResource.Cache
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.HoaDonPhong.resources
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.NguoiOCung.resources
+C:\Users\Huy\Desktop\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.csprojResolveAssemblyReference.cache
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe.config
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.exe
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.pdb
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.pdb
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.About.resources
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.HoaDon.resources
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.HoaDonPhong.resources
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Login.resources
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Luong.resources
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Main.resources
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.NguoiOCung.resources
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.NhanVien.resources
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Properties.Resources.resources
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.QuanLyTaiKhoan.resources
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.ThanhToan.resources
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.csproj.GenerateResource.Cache
+C:\Users\hufi\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.In.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe.config
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.pdb
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.About.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.HoaDonPhong.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Hoa_Don_Dich_Vu.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Hoa_Don_Thue_Phong.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Ket_Noi_CSDL.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Login.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Luong.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Main.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.NguoiOCung.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.NhanVien.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Properties.Resources.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Doi_Mat_Khau.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Tao_Tai_Khoan.resources
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.csproj.GenerateResource.Cache
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.exe
+C:\Users\Young\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.pdb
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe.config
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.exe
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.pdb
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.pdb
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.About.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.HoaDonPhong.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Hoa_Don_Dich_Vu.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Hoa_Don_Thue_Phong.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Ket_Noi_CSDL.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Login.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Luong.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Main.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.NguoiOCung.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.NhanVien.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Properties.Resources.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Doi_Mat_Khau.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Tao_Tai_Khoan.resources
+C:\Users\Huy\Downloads\now\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.csproj.GenerateResource.Cache
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe.config
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.exe
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.pdb
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.csprojResolveAssemblyReference.cache
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.About.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.HoaDonPhong.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Hoa_Don_Dich_Vu.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Hoa_Don_Thue_Phong.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Ket_Noi_CSDL.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Login.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Luong.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Main.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.NguoiOCung.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.NhanVien.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Properties.Resources.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Doi_Mat_Khau.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.Tao_Tai_Khoan.resources
+C:\Users\Huy\Desktop\New folder\now_24_12\DO_AN_NET\DO_AN_NET\DO_AN\DO_AN\obj\Debug\DO_AN.csproj.GenerateResource.Cache
